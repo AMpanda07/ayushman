@@ -34,7 +34,7 @@
         "dotenv": "^16.0.3",
         "fastify": "^4.10.2",
         "https-proxy-agent": "^7.0.2",
-        "ioredis": "^5.2.4",
+        "ioredis": "^6.0.0",
         "reconnecting-websocket": "^4.4.0",
         "ts-node": "^10.9.1",
         "ws": "^8.8.1"
