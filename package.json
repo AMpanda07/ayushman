@@ -24,7 +24,7 @@
     "dependencies": {
         "@consumet/extensions": "git+https://github.com/solo12345689/consumet.ts.git",
         "@fastify/cors": "^8.5.0",
-        "@fastify/swagger": "^8.15.0",
+        "@fastify/swagger": "^9.8.1",
         "@fastify/swagger-ui": "^1.10.2",
         "@types/node": "^18.11.17",
         "@types/ws": "^8.5.3",
